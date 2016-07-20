@@ -1,0 +1,45 @@
+
+@font-face {
+	font-family: 'Exothin';
+	src: url('../fonts/exothin.eot');
+	src: local('☺'), url('../fonts/exothin.woff') format('woff'), 
+	url('../fonts/exothin.ttf') format('truetype'), 
+	url('../fonts/exothin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Exoregular';
+	src: url('../fonts/exoregular.eot');
+	src: local('☺'), url('../fonts/exoregular.woff') format('woff'), 
+	url('../fonts/exoregular.ttf') format('truetype'), 
+	url('../fonts/exoregular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Exomedium';
+	src: url('../fonts/exomedium.eot');
+	src: local('☺'), url('../fonts/exomedium.woff') format('woff'), 
+	url('../fonts/exomedium.ttf') format('truetype'), 
+	url('../fonts/exomedium.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+@font-face {
+	font-family: 'Exoitalic';
+	src: url('../fonts/exoitalic.eot');
+	src: local('☺'), url('../fonts/exoitalic.woff') format('woff'), 
+	url('../fonts/exoitalic.ttf') format('truetype'), 
+	url('../fonts/exoitalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
